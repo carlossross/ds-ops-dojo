@@ -17,7 +17,7 @@
 - **Run-at-least-once**
   - `do..while`
 
-📄 Script: `iteration.ts`
+📄 Script: `./iteration.ts`
 
 ---
 
