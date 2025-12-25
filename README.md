@@ -31,7 +31,7 @@ so I can **deduce** solutions (chunk/flatten/groupBy/etc.) instead of memorizing
 - errors, coercion, type checks
 - reference equality, immutability
 
-➡️ `src/00-fundamentals/README.md`[Fundamentals](./src/00-fundamentals/README.md)
+➡️ `src/00-fundamentals/README.md`[Fundamentals](./src/00-fundamentals)
 
 ---
 
