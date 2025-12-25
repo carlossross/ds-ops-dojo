@@ -10,3 +10,4 @@ import './errors.js';
 import './type-checks.js';
 import './reference-equality.js';
 import './immutability.js';
+import './coercion.js';
