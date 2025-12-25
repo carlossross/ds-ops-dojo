@@ -8,3 +8,4 @@ import './spread-rest.js';
 import './functions.js';
 import './errors.js';
 import './type-checks.js';
+import './reference-equality.js';
