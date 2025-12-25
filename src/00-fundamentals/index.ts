@@ -6,3 +6,4 @@ import './assignment.js';
 import './destructuring.js';
 import './spread-rest.js';
 import './functions.js';
+import './errors.js';
