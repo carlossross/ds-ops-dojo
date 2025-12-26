@@ -109,17 +109,6 @@ Core APIs:
 
 ---
 
-## Build order (recommended)
-
-1. 00-fundamentals ✅
-2. 01-arrays
-3. 05-strings
-4. 02-objects
-5. 03-map + 04-set
-6. Classic DS (stack/queue/tree/graph/heap) _(later modules)_
-
----
-
 ## Personal rule
 
 I don’t memorize solutions.
