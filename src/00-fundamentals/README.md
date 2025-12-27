@@ -17,7 +17,7 @@
 - **Run-at-least-once**
   - `do..while`
 
-📄 Script: [iteration.ts](./iteration.ts)
+📄 Script: [`iteration.ts`](./iteration.ts)
 
 ---
 
@@ -29,7 +29,7 @@
 - Loop control: `break / continue`
 - Function control: `return` (early return / guard clauses)
 
-📄 Script: `control-flow.ts`
+📄 Script: [`control-flow.ts`](./control-flow.ts)
 
 ---
 
@@ -43,7 +43,7 @@
   - `NaN` → use `Number.isNaN`
   - Sorting numbers needs comparator: `(a,b)=>a-b`
 
-📄 Script: `comparisons.ts`
+📄 Script: [`comparisons.ts`](./comparisons.ts)
 
 ---
 
@@ -57,7 +57,7 @@
   - guards: `if (!x) return`
   - defaults: `value ?? fallback`
 
-📄 Script: `boolean-logic.ts`
+📄 Script: [`boolean-logic.ts`](./boolean-logic.ts)
 
 ---
 
@@ -71,7 +71,7 @@
   - `&&=` (truthy)
   - `??=` (nullish)
 
-📄 Script: `assignment.ts`
+📄 Script: [`assignment.ts`](./assignment.ts)
 
 ---
 
@@ -82,7 +82,7 @@
 - Nested: prefer `?.` + `??` to avoid crashes
 - Function params destructuring
 
-📄 Script: `destructuring.ts`
+📄 Script: [`destructuring.ts`](./destructuring.ts)
 
 ---
 
@@ -96,7 +96,7 @@
   - params: `(...args)`
   - destructuring: `[head, ...tail]`, `{x, ...rest}`
 
-📄 Script: `spread-rest.ts`
+📄 Script: [`spread-rest.ts`](./spread-rest.ts)
 
 ---
 
@@ -108,7 +108,7 @@
 - Closures (captures variables)
 - Mental model: `map/filter/reduce` = HOFs
 
-📄 Script: `functions.ts`
+📄 Script: [`functions.ts`](./functions.ts)
 
 ---
 
@@ -120,7 +120,7 @@
 - Custom errors (e.g. `ValidationError`)
 - Wrap errors with `cause`
 
-📄 Script: `errors.ts`
+📄 Script: [`errors.ts`](./errors.ts)
 
 ---
 
@@ -133,7 +133,7 @@
   - `Number('12px') => NaN`
 - Prefer explicit conversion + `Number.isNaN`
 
-📄 Script: `coercion.ts`
+📄 Script: [`coercion.ts`](./coercion.ts)
 
 ---
 
@@ -146,7 +146,7 @@
 - Type guards: `x is T`
 - Assertions: `asserts x is T`
 
-📄 Script: `type-checks.ts`
+📄 Script: [`type-checks.ts`](./type-checks.ts)
 
 ---
 
@@ -157,7 +157,7 @@
 - shallow equality patterns
 - prefer comparing by stable key (id)
 
-📄 Script: `reference-equality.ts`
+📄 Script: [`reference-equality.ts`](./reference-equality.ts)
 
 ---
 
@@ -169,7 +169,7 @@
 - mutable array methods to watch:
   - `sort`, `reverse`, `splice`, `push/pop/shift/unshift`
 
-📄 Script: `immutability.ts`
+📄 Script: [`immutability.ts`](./immutability.ts)
 
 ---
 
